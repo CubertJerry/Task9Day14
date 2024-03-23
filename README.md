@@ -1,3 +1,1 @@
-Pagination using DOM
-Calculator TASK
-HTML forms using DOM
+pagination.forms.calculator using DOM
